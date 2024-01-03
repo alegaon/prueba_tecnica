@@ -1,0 +1,12 @@
+Muy importante sobre la prueba técnica.
+- La prueba la haces tu directamente y luego la envías
+- En éste vínculo puedes descargar la prueba
+  *ir a: https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home
+  *sección "Documents & Downloads"
+  *en la sección "National Incident-Based Reporting System (NIBRS) Tables" elegir table: Victims, año: 2022, location: Florida
+  *descargar archivo
+  *con pandas leer zip y elegir el archivo: Victims_Age_by_Offense_Category_2022.xlsx
+  *elegir categoria Crimes Against Property y generar csv sin totales, footer, ni index
+- Hay varios compitiendo por las vacantes y cuanto antes puedas entregarnos la prueba mejor
+- Queremos hacer un corte mañana idealmente.
+- asegúrate que la prueba esté bien, toma en cuenta que no repetimos la prueba técnica
