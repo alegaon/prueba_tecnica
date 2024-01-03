@@ -10,6 +10,7 @@ Muy importante sobre la prueba técnica.
     # ok
   
   *con pandas leer zip y elegir el archivo: Victims_Age_by_Offense_Category_2022.xlsx
+    # ok
   *elegir categoria Crimes Against Property y generar csv sin totales, footer, ni index
 - Hay varios compitiendo por las vacantes y cuanto antes puedas entregarnos la prueba mejor
 - Queremos hacer un corte mañana idealmente.
